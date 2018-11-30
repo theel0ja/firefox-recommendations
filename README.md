@@ -1,4 +1,4 @@
-# firefox-recommendations
+# My Firefox recommendations
 My Firefox recommendations
 
 * [all Firefox Downloads](https://www.mozilla.org/en-US/firefox/all/)
