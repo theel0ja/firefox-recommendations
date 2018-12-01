@@ -49,5 +49,6 @@ TODO
 
 <!-- needs expansion -->
 
+- `browser.ctrlTab.recentlyUsedOrder` = false
 - `view_source.wrap_long_lines` = true
 - `extensions.pocket.enabled` = false
