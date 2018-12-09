@@ -44,7 +44,14 @@ My Firefox recommendations
 
 ## Settings
 
-TODO
+* Set Firefox as default browser
+* Set search engine to [DuckDuckGo](https://duckduckgo.com/) (or [Startpage](https://www.startpage.com/))
+* Block 3rd-party cookies
+* Disable Firefox's integrated tracking protection
+* Disable "Highlights" and "Snippets" in the "Home" tab
+* Disable telemetry (every toggle under "Firefox Data Collection and Use")
+* Disable "Deceptive Content and Dangerous Software Protection" (Google "Safe Browsing")
+
 
 ## about:config
 
