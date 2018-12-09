@@ -38,7 +38,7 @@ My Firefox recommendations
 
 ### Miscellaneous
 
-* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) (see [proxy.theel0ja.info](https://proxy.theel0ja.info/))
+* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) (see [proxy.theel0ja.info](https://proxy.theel0ja.info/) and SOCKS proxies of your VPN provider)
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/)
 * [Redirector](http://einaregilsson.com/redirector/) (see [Dandelion Sprout's Redirector Assistant List](https://github.com/DandelionSprout/adfilt/tree/master/Dandelion%20Sprout-s%20Redirector%20Assistant%20List))
 
