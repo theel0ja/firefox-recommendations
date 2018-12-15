@@ -7,7 +7,7 @@ My Firefox recommendations
 
 ### Bare minimum
 
-* uBlock Origin (see [theel0ja/ubo-recommendations](https://github.com/theel0ja/ubo-recommendations/))
+* uBlock Origin (see [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md))
 * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
 * [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html/)
 * [View Image](https://addons.mozilla.org/en-US/firefox/addon/view-image/)
