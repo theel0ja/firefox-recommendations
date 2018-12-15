@@ -60,3 +60,4 @@ My Firefox recommendations
 - `browser.ctrlTab.recentlyUsedOrder` = false
 - `view_source.wrap_long_lines` = true
 - `extensions.pocket.enabled` = false
+- `general.autoScroll` = true (useful on linux especially)
