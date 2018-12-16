@@ -16,7 +16,7 @@ My Firefox recommendations
 
 ### For advanced users
 
-* [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)
+* [uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/) (see [my startingpoint](https://github.com/theel0ja/uMatrix-rules))
 
 ### Conveniences
 
