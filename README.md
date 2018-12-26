@@ -13,6 +13,7 @@ My Firefox recommendations
 * [View Image](https://addons.mozilla.org/en-US/firefox/addon/view-image/)
 * [YouTube Classic](https://addons.mozilla.org/en-US/firefox/addon/youtube-classic/)
 * [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) (tweaks: enable autoclean)
+* [Anti paywall](https://github.com/nextgens/anti-paywall/releases)
 
 ### For advanced users
 
