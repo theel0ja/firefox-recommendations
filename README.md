@@ -39,7 +39,7 @@ My Firefox recommendations
 
 ### Miscellaneous
 
-* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) (see [proxy.theel0ja.info](https://proxy.theel0ja.info/) and SOCKS proxies of your VPN provider)
+* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) (check out if your VPN provider has SOCKS proxies)
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) ([Dark mode guide](https://github.com/theel0ja/dark-theme-on-web/blob/master/README.md), [Lists I use](https://github.com/theel0ja/Stylus-Lists))
 * [Redirector](http://einaregilsson.com/redirector/) (see [Dandelion Sprout's Redirector Assistant List](https://github.com/DandelionSprout/adfilt/tree/master/Dandelion%20Sprout-s%20Redirector%20Assistant%20List))
 
