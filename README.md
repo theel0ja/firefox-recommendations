@@ -3,17 +3,24 @@ My Firefox recommendations
 
 * [all Firefox Downloads](https://www.mozilla.org/en-US/firefox/all/)
 
+## Upstream
+
+* find an add blocking DNS service. I use NextDNS.io(https://nextdns.io) that allows user fiddling.  enable advanced mode
+* configure DNS over HTTPS in firefox (options, network, check box, enter value)
+* pick a VPN service with either native adblock  (TorGuard.net, nordvpn, windscribe) or user configurable DNS resolvers (ivpn) not spending more than 50 usd annually.  
+
 ## Addons
 
 ### Bare minimum
 
 * uBlock Origin (see [uBlock Origin recommendations](https://github.com/theel0ja/ubo-recommendations/blob/master/README.md))
+* Privacy Possum
 * [HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
 * [Redirect AMP to HTML](https://addons.mozilla.org/en-US/firefox/addon/amp2html/)
 * [View Image](https://addons.mozilla.org/en-US/firefox/addon/view-image/)
-* [YouTube Classic](https://addons.mozilla.org/en-US/firefox/addon/youtube-classic/)
 * [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/) (tweaks: enable autoclean)
 * [Anti paywall](https://github.com/nextgens/anti-paywall/releases)
+* WebRTC
 
 ### For advanced users
 
@@ -21,37 +28,30 @@ My Firefox recommendations
 
 ### Conveniences
 
-* [Search by Image on Google](https://addons.mozilla.org/en-US/firefox/addon/search-by-image-on-google/)
-* [To Google Translate](https://addons.mozilla.org/en-US/firefox/addon/to-google-translate/)
-* [Flagfox](https://addons.mozilla.org/en-US/firefox/addon/flagfox/) (tweaks: [iplookup.theel0ja.info/add-to-flagfox](https://iplookup.theel0ja.info/add-to-flagfox))
+* stop using "free" google services
+* security for convenience is no more acceptable than privacy for convenience
 
-### Website enchancers
-
-* [npmhub](https://addons.mozilla.org/en-US/firefox/addon/npm-hub/)
-* [Reddit Enhancement Suite](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
-* [Refined Github](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)
 
 ### Privacy
-* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+* Replace [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) with the fork Privacy Possum
 * [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
-* [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
+* Stop using Facebook
 * [uBO-Scope](https://addons.mozilla.org/en-US/firefox/addon/ubo-scope/)
 
 ### Miscellaneous
 
-* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) (check out if your VPN provider has SOCKS proxies)
+* [FoxyProxy Standard](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/) (check out if your VPN provider has SOCKS proxies)  warning socks5 is not encrypted like you thing
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) ([Dark mode guide](https://github.com/theel0ja/dark-theme-on-web/blob/master/README.md), [Lists I use](https://github.com/theel0ja/Stylus-Lists))
 * [Redirector](http://einaregilsson.com/redirector/) (see [Dandelion Sprout's Redirector Assistant List](https://github.com/DandelionSprout/adfilt/tree/master/Dandelion%20Sprout-s%20Redirector%20Assistant%20List))
 
 ## Settings
 
 * Set Firefox as default browser
+* learn how to create multiple firefox profiles.  Change your shortcut to use the profile manager switch to invoke selection on click.
+* FIRST add the user.js(https://github.com/ghacksuserjs/ghacks-user.js/wiki/1.1-Overview) to your respective profile directory from the Ghacks user.js github
 * Set search engine to [DuckDuckGo](https://duckduckgo.com/) (or [Startpage](https://www.startpage.com/))
 * Block 3rd-party cookies
-* Disable Firefox's integrated tracking protection
-* Disable "Highlights" and "Snippets" in the "Home" tab
-* Disable telemetry (every toggle under "Firefox Data Collection and Use")
-* Disable "Deceptive Content and Dangerous Software Protection" (Google "Safe Browsing")
+
 
 
 ## about:config
